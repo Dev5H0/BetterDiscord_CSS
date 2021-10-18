@@ -1,0 +1,22 @@
+/*
+Adds support between "https://github.com/CorellanStoma/CreArts-Discord" and "https://github.com/l0c4lh057/BetterDiscordStuff/tree/master/Plugins/ChannelTabs"
+*/
+
+.platform-win .typeWindows-1za-n7 {
+  position: absolute;
+  top: -30px;
+  width: 100%;
+}
+.platform-win .winButtonClose-1HsbF- {
+  border-top-right-radius: var(--TB-tr-roundness);
+}
+.platform-win .winButton-iRh8-Z {
+  position: relative;
+  top: calc(var(--TB-position-top, 0px) + 20px);
+/*  right: var(--TB-position-right, -1918.5px);*/
+  height: var(--TB-height, 45px);
+  width: var(--TB-width, 50px);
+}
+.platform-win .winButton-iRh8-Z:not(.winButtonClose-1HsbF-):hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
